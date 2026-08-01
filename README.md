@@ -14,7 +14,7 @@
 
 About Me
 
-Hi, I'm **Bobii** 👋  
+Hi, I'm **Bobbeee** 👋  
 Web developer enthusiast focused on building practical, structured, and user-friendly web applications. Currently deepening my foundation in both front-end aesthetics and back-end logic.
 
 **Current Focus:** Crafting clean UI/UX and strengthening system logic.
